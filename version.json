@@ -2,7 +2,7 @@
   "version": "1.1",
   "name": "Lunacy Launcher v1.1",
   "downloadUrl": "https://github.com/uarecopycat/Lunacy-Launcher-Releases/releases/download/v1.1/Lunacy-Setup.exe",
-  "releaseNotes": "• Improved download engine speeds with optimized multi-threading\n• Enhanced library sync and cloud save reliability\n• Client security hardening & stability fixes\n• General UI performance improvements and bug fixes",
-  "pub_date": "2026-10-13T18:13:45.191Z",
+  "releaseNotes": "• Faster downloads with better connection handling\n• Fixed game library and playtime sync issues\n• UI performance tweaks and minor bug fixes",
+  "pub_date": "2026-10-13T18:32:43.446Z",
   "mandatory": false
 }
