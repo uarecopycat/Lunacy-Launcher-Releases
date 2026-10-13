@@ -1,8 +1,8 @@
 {
-  "version": "1.1",
-  "name": "Lunacy Launcher v1.1",
-  "downloadUrl": "https://github.com/uarecopycat/Lunacy-Launcher-Releases/releases/download/v1.1/Lunacy-Setup.exe",
-  "releaseNotes": "• Faster downloads with better connection handling\n• Fixed game library and playtime sync issues\n• UI performance tweaks and minor bug fixes",
-  "pub_date": "2026-10-13T18:32:43.446Z",
+  "version": "1.0.0",
+  "name": "Lunacy Launcher v1.0.0",
+  "downloadUrl": "https://github.com/uarecopycat/Lunacy-Launcher-Releases/releases/download/v1.0.0/Lunacy-Setup.exe",
+  "releaseNotes": "• Initial stable release of Lunacy Launcher\n• 150k+ Games catalogue with high-speed direct downloads\n• Cloud sync & playtime tracker\n• Clean, responsive modern UI",
+  "pub_date": "2026-10-13T20:30:39.972Z",
   "mandatory": false
 }
